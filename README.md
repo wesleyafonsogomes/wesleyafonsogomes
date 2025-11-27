@@ -19,6 +19,8 @@ Estudante de Tecnologia focado em **Desenvolvimento Back-end** com JavaScript e 
     * **Tecnologias:** Node.js, Express, Sequelize.
     * [Link para o repositório]
 
+---
+
 ### Contato
 
 * [Linkedin]
