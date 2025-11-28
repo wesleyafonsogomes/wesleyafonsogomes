@@ -12,7 +12,7 @@ Estudante de Tecnologia focado em **Desenvolvimento Back-end** com JavaScript e 
 
 ---
 
-### 🚀 Projetos Principais
+### Projetos Principais
 
 * **[Projeto-nome]** (Seu Repositório):
     * **Foco:** Implementação de uma API CRUD completa.
