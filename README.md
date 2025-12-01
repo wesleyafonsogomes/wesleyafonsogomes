@@ -14,10 +14,11 @@ Estudante de Tecnologia focado em **Desenvolvimento Back-end** com JavaScript e 
 
 ### Projetos Principais
 
-* **[Projeto-nome]** (Seu Repositório):
-    * **Foco:** Implementação de uma API CRUD completa.
-    * **Tecnologias:** Node.js, Express, Sequelize.
-    * [Link para o repositório]
+* ** CRUD Garagem (API RESTful)**
+    * **Foco:** Implementação de uma API REST completa para gerenciar (CRUD) veículos clássicos.
+    * **Tecnologias:** Node.js, Express, Sequelize, SQLite.
+    * **[Acessar Documentação] (https://wesleyafonsogomes.github.io/crud-garagem/)**
+    * **[Acessar Repositório] (https://github.com/wesleyafonsogomes/crud-garagem)**
 
 ---
 
