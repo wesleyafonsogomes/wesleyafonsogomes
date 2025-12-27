@@ -16,6 +16,7 @@ Estudante de Tecnologia focado em **Desenvolvimento Back-end** com JavaScript e 
 ### Projetos Principais
 
 * **Garagem Matrix** — Full-Stack MVC Sistema completo de curadoria e gerenciamento de automóveis clássicos.
+
     <br>Foco: Implementação de CRUD persistente com arquitetura MVC e interface responsiva.
     <br>Tecnologias: Node.js, Express, Sequelize, MySQL e Handlebars.
     <br>Destaque: Layout premium "Split 50/50" e persistência em banco de dados relacional.
