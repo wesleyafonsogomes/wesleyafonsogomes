@@ -1,6 +1,6 @@
-### Olá! Meu nome é Wesley Afonso 👋
+# Olá! Meu nome é Wesley Afonso 👋
 
-Estudante de Tecnologia focado em **Desenvolvimento Back-end** com JavaScript e APIs REST.
+**Desenvolvedor em transição de carreira focado em Back-end e Arquiteturas Escaláveis.** Atualmente aprofundando conhecimentos em ecossistema Node.js, padrões de projeto MVC e integração de bancos de dados relacionais com ORMs e não relacionais.
 
 ---
 
